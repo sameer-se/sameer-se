@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, It's me Sameer Khadka.</h1>
-<h3 align="center">Computer Geek & Software Developer</h3>
+<h1 align="center">Hey 👋, It's me Sameer Khadka.</h1>
+<h3 align="center">CS Student & Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
