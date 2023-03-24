@@ -24,3 +24,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameer-se&show_icons=true&locale=en&layout=compact" alt="sameer-se" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sameer-se&" alt="sameer-se" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameer-se&show_icons=true&locale=en" alt="sameer-se" /></p>
