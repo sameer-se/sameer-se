@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, It's me Sameer Khadka.</h1>
 <h3 align="center">SOFTWARE / WEB DEVELOPER</h3>
 
-- 👨‍💻 All of my projects are available at [sameer-khadka.com.np](sameer-khadka.com.np)
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - ⚡ Fun fact **AT THE END IT'S JUST 0 AND 1.**
+- 👨‍💻 All of my projects are available at [sameer-khadka.com.np](https://www.sameer-khadka.com.np)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
