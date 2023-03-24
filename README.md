@@ -2,7 +2,7 @@
 <h3 align="center">SOFTWARE / WEB DEVELOPER</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - ⚡ Fun fact **AT THE END IT'S JUST 0 AND 1.**
 - 👨‍💻 All of my projects are available at [sameer-khadka.com.np](https://www.sameer-khadka.com.np)
