@@ -3,20 +3,13 @@
 <br>
 
 <img align="right" alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- ⚡ Fun fact **AT THE END IT'S JUST 0 AND 1.**
-- 👨‍💻 All of my projects are available at [sameer-khadka.com.np](https://www.sameer-khadka.com.np)
-
-<br>
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sameer-khadka-774757222/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sameer khadka" height="40" width="40" /></a>
-<a href="https://instagram.com/sameer.s.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameer.s.e" height="30" width="40" /></a>
-<a href="https://twitter.com/sameer.s.e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer.s.e" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sameer.s.e.23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer.s.e.23" height="30" width="40" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sameer.s.e" height="30" width="40" /></a>
+<a href="https://instagram.com/sameer.s.e" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sameer.s.e" height="40" width="40" /></a>
+<a href="https://twitter.com/sameer.s.e" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="sameer.s.e" height="40" width="40" /></a>
+<a href="https://www.facebook.com/sameer.s.e.23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer.s.e.23" height="40" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="sameer.s.e" height="40" width="40" /></a>
 </p>
 <br>
 <br>
