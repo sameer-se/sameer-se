@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sameer Khadka. 👋</h1>
+<h1 align="center">Hey, I'm Sameer Khadka .👋</h1>
 <h3 align="center">SOFTWARE / WEB DEVELOPER</h3>
 <img align="right"  alt="coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="left">Connect with me:</h3>
