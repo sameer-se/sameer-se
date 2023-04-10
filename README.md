@@ -11,6 +11,7 @@
 <a href="https://www.facebook.com/sameer.s.e.23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameer.s.e.23" height="40" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="sameer.s.e" height="40" width="40" /></a>
 </p>
+<br>
 <!-- LANGUAGES AND TOOLS -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
