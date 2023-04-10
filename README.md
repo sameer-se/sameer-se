@@ -24,8 +24,8 @@
   
  <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-se&layout=compact&show_icons=true&theme=algolia&border_radius=20) 
- 
- ![sameer-se GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer-se&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+<!--  
+ ![sameer-se GitHub Stats](https://github-readme-stats.vercel.app/api?username=sameer-se&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) -->
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=sameer-se&count_private=true&theme=algolia&border_radius=20)
 
