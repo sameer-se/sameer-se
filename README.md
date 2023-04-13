@@ -18,5 +18,5 @@
 <!-- Statistics 1 -->
 <p><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-se&layout=compact&show_icons=true&theme=algolia&border_radius=20" /></p>
 <img align="left" width="47%" height="187.36" src ="https://github-readme-stats.vercel.app/api?username=sameer-se&show_icons=true&theme=algolia&border_radius=20" />
-<img align="left" width="47%"  src ="https://github-readme-streak-stats.herokuapp.com/?user=sameer-se&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
+<img align="left" width="47%"  height="190.36" src ="https://github-readme-streak-stats.herokuapp.com/?user=sameer-se&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
 <br>
