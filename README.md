@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm Sameer Khadka.👋</h2>
 <h4 align="center">SOFTWARE / WEB DEVELOPER</h4>
-<img alt="coding"  width="350"  align="right" height="400" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
+<img alt="coding"  width="350"  align="right" height="480" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
 <!-- CONNECT WITH ME -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +17,4 @@
 <p align="left"><!-- flutter --><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a><!-- firebase --><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a><!-- dart --><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a><!-- java --><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <!-- python --><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> </a><!-- linux --><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a><!-- Bash --><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <!-- git --> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <!-- Vscode --><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a><!-- AndroidStudio --><a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="linux" width="40" height="40"/> </a></p>
 <!-- Statistics 1 -->
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-se&layout=compact&show_icons=true&theme=algolia&border_radius=20" />
-<br>
-<img align="left" width="100%"  src ="https://github-readme-stats.vercel.app/api?username=sameer-se&show_icons=true&theme=algolia&border_radius=20" />
+<!-- <img align="left" width="100%" src ="https://github-readme-stats.vercel.app/api?username=sameer-se&show_icons=true&theme=algolia&border_radius=20" /> -->
