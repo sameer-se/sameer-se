@@ -1,5 +1,5 @@
 <h2 align="center"></h2>
-<h4 align="left">HEY</h4>
+<h4 align="left">Hey</h4>
 <img alt="coding"  width="350"  align="right" height="470" src="https://raw.githubusercontent.com/gist/abhirampai/ce94b0b8345cd969d3cf997578487cdd/raw/b2dc51d4421db9d4a5a17be817e07dc8ad1e3375/hello.gif">
 <!-- CONNECT WITH ME -->
 <h3 align="left">Connect with me:</h3>
